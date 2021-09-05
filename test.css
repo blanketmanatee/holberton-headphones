@@ -1,0 +1,55 @@
+:root {
+    --color-primary: #D73953;
+    --button-color: #FF6565;
+    --text-color: #FFFFFF;
+    --font-family: Source Sans Pro;
+  
+  }
+  
+  
+  
+  
+  
+  *, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+    }
+    
+    body {
+      font-family: var(--font-family);
+      color: var(--text-color);
+  }
+
+  .footer {
+    --nav-item-font-weight: normal;
+    --nav-item-font-size: var(--font-size-small);
+    padding: var(--footer-padding);
+  }
+  
+  .footer-copyright {
+    margin: 0;
+    font-size: var(--font-size-small);
+    color: var(--text-color);
+  }
+  
+  .footer ul {
+    text-align: right;
+  }
+  
+  .footer-address {
+    color: var(--text-color);
+  }
+  
+  .social-link {
+    display: block;
+  }
+  
+  .social-link > svg {
+    fill: var(--text-color);
+  }
