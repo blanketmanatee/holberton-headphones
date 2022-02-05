@@ -1,7 +1,7 @@
-In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
-
-You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
+## Overview
+In this project, I implemented from scratch a web page for a fictional company. HTML/CSS was used while considering responsive design and accessibility. I was provided with a Figma file for guidance. 
 
 ![desktop](01_headphones_desktop@2x.png)
-![mobile](01_headphones_mobile@2x.png)
-![tablet](01_headphones_tablet@2x.png)
+
+## Author
+Ashley Price is a Full Stack Web Developer with a preference for Front End Development. Some technologies she enjoys so far include Python, HTML, CSS, Figma, and JS.
